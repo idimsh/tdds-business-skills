@@ -2,10 +2,6 @@
 
 Portable SKILL.md-based agent skills for Codex, Claude, and other AI coding agents.
 
-## License
-
-This project is licensed under the [Mozilla Public License 2.0 (MPL 2.0)](LICENSE).
-
 ## Skills
 
 | Skill | Description |
@@ -38,3 +34,15 @@ skill-name/
   SKILL.md          # Skill definition (frontmatter + instructions)
   *.md              # Optional support files (e.g. templates)
 ```
+
+## License
+
+[MPL 2.0](LICENSE) — in a nutshell:
+
+| | |
+|---|---|
+| **Can** | Use commercially, modify, distribute, use privately, use patent claims |
+| **Must** | Disclose source of modified files, include license, include copyright |
+| **Cannot** | Use trademarks, hold liable |
+
+Modified files must stay under MPL 2.0. New files you add can use any license.
