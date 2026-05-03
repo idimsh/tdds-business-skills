@@ -11,6 +11,7 @@ Portable SKILL.md-based agent skills for Codex, Claude, and other AI coding agen
 | `context-engineering` | Understand context components, mechanics, and constraints in agent systems |
 | `legal-audit` | Audit website legal compliance for Germany — DSGVO, BDSG, DDG, TDDDG, BGB/EGBGB, PAngV, VSBG |
 | `legal-pages` | Generate German legal page drafts (Datenschutz, Impressum, AGB, Widerruf, Cookie-Hinweis) |
+| `premortem` | Stress-test a concrete plan or decision by assuming it failed and working backward to expose failure modes |
 | `prompt-engineering` | Write and optimize prompts for commands, hooks, skills, and sub-agents |
 | `ui-audit` | Audit visual UI quality — layout, spacing, typography, color, consistency |
 | `ux-audit` | Audit UX against UX laws, cognitive principles, and Nielsen's heuristics |
