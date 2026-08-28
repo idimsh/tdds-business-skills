@@ -13,6 +13,7 @@ Portable SKILL.md-based agent skills for Codex, Claude, and other AI coding agen
 | `legal-pages` | Generate German legal page drafts (Datenschutz, Impressum, AGB, Widerruf, Cookie-Hinweis) |
 | `premortem` | Stress-test a concrete plan or decision by assuming it failed and working backward to expose failure modes |
 | `prompt-engineering` | Write and optimize prompts for commands, hooks, skills, and sub-agents |
+| `transcreate` | Translate documents by re-authoring them so they read as natively written — transcreation, not word-for-word. Any language pair |
 | `ui-audit` | Audit visual UI quality — layout, spacing, typography, color, consistency |
 | `ux-audit` | Audit UX against UX laws, cognitive principles, and Nielsen's heuristics |
 
