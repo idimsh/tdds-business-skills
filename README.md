@@ -15,6 +15,7 @@ Portable SKILL.md-based agent skills for Codex, Claude, and other AI coding agen
 | `prompt-engineering` | Write and optimize prompts for commands, hooks, skills, and sub-agents |
 | `transcreate` | Translate documents by re-authoring them so they read as natively written — transcreation, not word-for-word. Any language pair |
 | `ui-audit` | Audit visual UI quality — layout, spacing, typography, color, consistency |
+| `update-deps` | Update Go and Node dependencies to their latest stable releases, majors included, adapt code to API changes, and verify with the project's own checks and vulnerability scans. Supports a dry run |
 | `ux-audit` | Audit UX against UX laws, cognitive principles, and Nielsen's heuristics |
 
 ## Install
